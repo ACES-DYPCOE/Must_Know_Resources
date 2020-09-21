@@ -5,18 +5,18 @@ The repository contains learning path for some domains and interesting must to d
 
 ## Contents 
 - [WEB DEVELOPMENT](#webdevelopment)
-- [COMPETITIVE PROGRAMMING](#ccoding)
-- [MACHINE LEARNING](#ML)
-- [DATA ANALYST](#dataanlyst)
-- [ANDRIOD APP DVELOPMENT](#APP)
-- [FULL STACK DEVELOPMENT](#fullstack)
+- [COMPETITIVE PROGRAMMING](#competitive-programming)
+- [MACHINE LEARNING](#machine-learning)
+- [DATA ANALYST](#data-anlyst)
+- [ANDRIOD APP DVELOPMENT](#andriod-app-development)
+- [FULL STACK DEVELOPMENT](#full-stack-development)
 - [UI/UX](#ui/ux)
-- [PENETRATION TESTING/BUG BOUNTY](#bugbounty)
-- [PROGRAMMING LANGUAGES](#pp)
-- [FRAME WORKS](#framewroks)
-- [VERSION CONTROL TOOLS](#vct)
-- [TECH ARTICLE WRITING](#techwrite)
-- [MUST KNOW HACKS](#mustknowhacks)
+- [PENETRATION TESTING/BUG BOUNTY](#programming-testing/bug-bounty)
+- [PROGRAMMING LANGUAGES](#programming-languages)
+- [FRAME WORKS](#frame-works)
+- [VERSION CONTROL TOOLS](#version-control-tools)
+- [TECH ARTICLE WRITING](#tech-article-writing)
+- [MUST KNOW HACKS](#must-know-hacks)
 
 ## WEB DEVELOPMENT
 ## COMPETITIVE PROGRAMMING
