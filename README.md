@@ -31,4 +31,4 @@ The repository contains learning path for some domains and interesting must to d
 - How to apply for financial aid on Coursera 
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
   - [Official blog from coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
-    <br>Advice : Don't Forget to implemet something from what you have learednd !:100:
+    <br>Advice : Don't Forget to implemet something from what you have learned !:100:
