@@ -28,3 +28,7 @@ The repository contains learning path for some domains and interesting must to d
 ## FRAME WORKS
 ## TECH ARTICLE WRITING
 ## MUST KNOW HACKS
+- How to apply for financial aid on Coursera 
+  - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
+  - [Official blog](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
+    Advice : Don't Forget to implemet something from what you have learednd !:100:
