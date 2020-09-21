@@ -27,6 +27,15 @@ The repository contains learning path for some domains and interesting must to d
 ## UI/UX
 ## PENETRATION TESTING/BUG BOUNTY
 ## PROGRAMMING LANGUAGES
+
+- [C++]
+  - []
+- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+  - []
+- [Java]
+  - []
+- [Python]
+  - []
 ## VERSION CONTROL TOOLS
 ## FRAME WORKS
 ## TECH ARTICLE WRITING
