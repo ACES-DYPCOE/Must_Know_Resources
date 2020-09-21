@@ -4,7 +4,7 @@ The repository contains learning path for some domains and interesting must to d
 # Let's Begin then :golfing_woman:
 
 ## Contents 
-- [WEB DEVELOPMENT](#webdevelopment)
+- [WEB DEVELOPMENT](#web-development)
 - [COMPETITIVE PROGRAMMING](#competitive-programming)
 - [MACHINE LEARNING](#machine-learning)
 - [DATA ANALYST](#data-anlyst)
