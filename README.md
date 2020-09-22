@@ -166,7 +166,13 @@ The repository contains learning path for some domains and interesting must to d
 5. [FaceBook Hacker Cup](https://www.facebook.com/hackercup/contest)
 6. [TCS CodeVita](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
 7. [HackWithInfy](https://www.infosys.com/careers/hackwithinfy.html)
+8. Codechef Long Challenge
+9. Codechef Cook-Off 
+10. Codechef Lunchtime
+11. Codeforces Rounds Div1 & Div2
+12. [Coding Block's CodeSule](https://hack.codingblocks.com/app/competitions/1)
 
+**List of Upcomming contests** - https://clist.by/
  
 ---
 ## MACHINE LEARNING
