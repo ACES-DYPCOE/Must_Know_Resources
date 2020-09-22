@@ -20,8 +20,8 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## WEB DEVELOPMENT
 ---
-## COMPETITIVE PROGRAMMING :woman_technologist: :man_technologist:
-
+## COMPETITIVE PROGRAMMING :woman_technologist: 
+   :man_technologist:
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
@@ -175,8 +175,8 @@ The repository contains learning path for some domains and interesting must to d
 **List of Upcomming contests** - https://clist.by/
  
 ---
-## MACHINE LEARNING 🤖
-   
+## MACHINE LEARNING 
+   🤖
 ### GET INTUITION OF FIELD FIRST :
 
 **GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING ,AI AND DATA SCIENCE**
