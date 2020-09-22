@@ -354,7 +354,7 @@ https://www.colormatters.com/
    - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 ---
 
-## FRAME WORK
+## FRAME WORKS
 - What is Frame Work and Types of Frame Work : [Blog](https://hackr.io/blog/what-is-frameworks)
 - **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
 
