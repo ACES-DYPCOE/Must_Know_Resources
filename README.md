@@ -231,6 +231,9 @@ The repository contains learning path for some domains and interesting must to d
 #### AWESOME RESERACH PAPER:
 - [Trending Research](https://paperswithcode.com/)
 
+#### Comprehensive Roadmap
+- A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
+
 
 ## DATA ANALYST
 ---
