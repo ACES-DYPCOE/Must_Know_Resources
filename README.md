@@ -285,7 +285,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ---
 ## UI AND UX
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 
 ---
 
