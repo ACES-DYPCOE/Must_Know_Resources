@@ -18,7 +18,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ---
 ## WEB DEVELOPMENT 
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -42,7 +42,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## COMPETITIVE PROGRAMMING 
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -201,7 +201,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## MACHINE LEARNING
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -265,7 +265,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## DATA ANALYST 
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -281,11 +281,11 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## ANDRIOD APP DEVELOPMENT
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 ## UI AND UX
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -365,13 +365,13 @@ https://www.colormatters.com/
 
 ---
 ## PENETRATION TESTING AND BUG BOUNTY
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
 ---
 ## VERSION CONTROL TOOLS
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -381,7 +381,7 @@ https://www.colormatters.com/
 ---
 
 ## FRAME WORKS
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -390,7 +390,7 @@ https://www.colormatters.com/
 
 ---
 ## TECH ARTICLE WRITING
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
@@ -406,7 +406,7 @@ Many platforms you can discover but do share your knowledege .
 
 ---
 ## MUST KNOW HACKS
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+<div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
 
