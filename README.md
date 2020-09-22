@@ -285,13 +285,17 @@ The repository contains learning path for some domains and interesting must to d
 
 #### Android with JAVA :
  
- [UDEMY COURSE](https://www.udemy.com/course/complete-android-n-developer-course/)
+ ---
  
- [Developer Guides|Android Developers](https://developer.android.com/guide)
+ - [UDEMY COURSE](https://www.udemy.com/course/complete-android-n-developer-course/)
  
- [JavaDoc](https://docs.oracle.com/javase/7/docs/api/)
+ - [Developer Guides|Android Developers](https://developer.android.com/guide)
  
- [YoutTube Course](https://www.youtube.com/watch?v=mndwTFO9glI&list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb)
+ - [JavaDoc](https://docs.oracle.com/javase/7/docs/api/)
+ 
+ - [YoutTube Course](https://www.youtube.com/watch?v=mndwTFO9glI&list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb)
+ 
+ - [Published Android Project on Geeks for Geeks](https://www.geeksforgeeks.org/guessing-the-number-game-using-android-studio/)
  
 ---
 ## UI AND UX
