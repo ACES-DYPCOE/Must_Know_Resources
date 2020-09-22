@@ -22,6 +22,17 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## COMPETITIVE PROGRAMMING
 
+### Coding Platforms
+
+- **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
+- **Beginners** - [HackerRank (Must do for a Beginner)](https://www.hackerrank.com/)
+- **Beginners** - [HackerEarth](https://www.hackerearth.com/)
+- **Long Challenge and Short Contest** - [CodeChef](https://www.codechef.com/)
+- **Short Contest** - [CodeForces](https://codeforces.com/)
+- **Mathematics** - [Project Euler](https://projecteuler.net/)
+- **Data Structures and Algorithms** - [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
+
+
 ### Important Data Structures: 
 - [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [Strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
@@ -176,7 +187,13 @@ The repository contains learning path for some domains and interesting must to d
 ## TECH ARTICLE WRITING
 ---
 ## MUST KNOW HACKS
-- How to apply for financial aid on Coursera 
+
+## Code Visualisation
+- [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
+- [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
+- [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
+
+## How to apply for financial aid on Coursera 
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
   - [Official blog from coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
     <br>Advice : Don't Forget to implemet something from what you have learned !:100:
