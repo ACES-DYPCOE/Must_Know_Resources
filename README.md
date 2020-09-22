@@ -11,7 +11,7 @@ The repository contains learning path for some domains and interesting must to d
 - [ANDROID APP DEVELOPMENT](#android-app-development)
 - [FULL STACK DEVELOPMENT](#full-stack-development)
 - [UI AND UX](#ui-and-ux)
-- [PENETRATION TESTING/BUG BOUNTY](#programming-testing/bug-bounty)
+- [PENETRATION TESTING AND BUG BOUNTY](#penetration-testing-and-bug-bounty)
 - [FRAME WORKS](#frame-works)
 - [VERSION CONTROL TOOLS](#version-control-tools)
 - [TECH ARTICLE WRITING](#tech-article-writing)
@@ -346,7 +346,7 @@ https://www.happyhues.co/
 https://www.colormatters.com/
 
 ---
-## PENETRATION TESTING/BUG BOUNTY
+## PENETRATION TESTING AND BUG BOUNTY
 ---
 ## VERSION CONTROL TOOLS
 - **Git**
