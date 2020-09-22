@@ -17,7 +17,7 @@ The repository contains learning path for some domains and interesting must to d
 - [MUST KNOW HACKS](#must-know-hacks)
 
 ---
-## WEB DEVELOPMENT <div>✨</div>
+## WEB DEVELOPMENT 
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 
 ---
