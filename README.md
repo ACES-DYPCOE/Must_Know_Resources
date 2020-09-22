@@ -182,7 +182,7 @@ The repository contains learning path for some domains and interesting must to d
 #### GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING , AI AND DATA SCIENCE
 - [MUST READ BLOG](https://towardsdatascience.com/data-science-vs-artificial-intelligence-vs-machine-learning-vs-deep-learning-9fadd8bda583)
 - [THIS VIDEO WILL HELP](https://www.youtube.com/watch?v=k2P_pHQDlp0&t=519s)
-
+---
 #### MATHEMATICS REQUIRED :
 - **Linear Algebra** : 
     - **Playlist** : [Khan-Academy](https://www.khanacademy.org/math/linear-algebra)
@@ -194,7 +194,7 @@ The repository contains learning path for some domains and interesting must to d
     - **Playlist** : [Khan-Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 - **Statistics** :
     - **Read Out** : [Machine Learning](http://alex.smola.org/teaching/cmu2013-10-701/stats.html)
-
+---
 **PYTHON FOR ML** :
 - [Python Tutorial For Begineers](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 - [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
@@ -205,7 +205,7 @@ The repository contains learning path for some domains and interesting must to d
 
 **DEEP LEARNING**:
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
-
+---
 #### Competitive Platforms to Showcase Skills("The best way of learning anything is by doing")
 - [Kaggle ](https://www.kaggle.com/)
 - [ International Data Analysis Olympiad (IDAHO)](https://idao.world/)
@@ -234,7 +234,7 @@ The repository contains learning path for some domains and interesting must to d
 #### Comprehensive Roadmap
 - A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
 
-
+---
 ## DATA ANALYST
 ---
 ## ANDRIOD APP DVELOPMENT
