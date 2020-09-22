@@ -7,7 +7,7 @@ The repository contains learning path for some domains and interesting must to d
 - [WEB DEVELOPMENT](#web-development)
 - [COMPETITIVE PROGRAMMING](#competitive-programming)
 - [MACHINE LEARNING](#machine-learning)
-- [DATA ANALYST](#data-anlyst)
+- [DATA ANALYST](#data-analyst)
 - [ANDRIOD APP DVELOPMENT](#andriod-app-development)
 - [FULL STACK DEVELOPMENT](#full-stack-development)
 - [UI AND UX](#ui-and-ux)
