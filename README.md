@@ -380,11 +380,31 @@ https://www.colormatters.com/
    - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 ---
 
-## FRAME WORKS
+## Web Frameworks
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
+### JAVA
+- Spring FrameWork
 
+### PYTHON
+- Django
+- Flask
+
+### JAVASCRIPT
+- Angular
+- Vue
+- React (Frontend Library)
+- Express (Backend Framework)
+
+### RUBY
+- Ruby on Rails
+
+### STACKS
+- ***MEAN*** (MongoDB, Express.js, AngularJS, and Node.js)
+- ***MEAN*** (MongoDB, Express.js, ReactJS, and Node.js)
+- ***MEVN*** (MongoDB, Express.js, VueJS, and Node.js)
+- ***LAMP*** (Linux, Apache, MySQL, and PHP)
 - What is Frame Work and Types of Frame Work : [Blog](https://hackr.io/blog/what-is-frameworks)
 - **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
 
