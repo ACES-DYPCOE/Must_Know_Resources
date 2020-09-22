@@ -20,8 +20,8 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## WEB DEVELOPMENT
 ---
-## COMPETITIVE PROGRAMMING :woman_technologist: 
-   :man_technologist:
+## COMPETITIVE PROGRAMMING 
+   :man_technologist: :woman_technologist: 
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
