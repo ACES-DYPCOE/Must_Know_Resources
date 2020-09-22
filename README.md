@@ -33,6 +33,9 @@ The repository contains learning path for some domains and interesting must to d
 
 #### BootStrap
 - [Lear  BootStrap Codeacademy ](https://www.codecademy.com/learn/learn-bootstrap)
+
+#### Hosting 
+- [Host a static website for FREE on GitHub](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 ---
 ## COMPETITIVE PROGRAMMING 
    :man_technologist: :woman_technologist: 
@@ -335,7 +338,9 @@ https://www.colormatters.com/
 ## PENETRATION TESTING/BUG BOUNTY
 ---
 ## VERSION CONTROL TOOLS
----
+
+- **[Git](https://git-scm.com/)** : 
+- 
 ## FRAME WORKS
 ---
 ## TECH ARTICLE WRITING :fountain_pen:	
