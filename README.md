@@ -17,15 +17,23 @@ The repository contains learning path for some domains and interesting must to d
 - [VERSION CONTROL TOOLS](#version-control-tools)
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
-
+---
 ## WEB DEVELOPMENT
+---
 ## COMPETITIVE PROGRAMMING
+---
 ## MACHINE LEARNING
+---
 ## DATA ANALYST
+---
 ## ANDRIOD APP DVELOPMENT
+---
 ## FULL STACK DEVELOPMENT
+---
 ## UI/UX
+---
 ## PENETRATION TESTING/BUG BOUNTY
+---
 ## PROGRAMMING LANGUAGES
 
 - [C++]
@@ -37,8 +45,11 @@ The repository contains learning path for some domains and interesting must to d
 - [Python]
   - []
 ## VERSION CONTROL TOOLS
+---
 ## FRAME WORKS
+---
 ## TECH ARTICLE WRITING
+---
 ## MUST KNOW HACKS
 - How to apply for financial aid on Coursera 
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
