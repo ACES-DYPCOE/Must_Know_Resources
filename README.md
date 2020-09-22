@@ -12,7 +12,6 @@ The repository contains learning path for some domains and interesting must to d
 - [FULL STACK DEVELOPMENT](#full-stack-development)
 - [UI/UX](#ui/ux)
 - [PENETRATION TESTING/BUG BOUNTY](#programming-testing/bug-bounty)
-- [PROGRAMMING LANGUAGES](#programming-languages)
 - [FRAME WORKS](#frame-works)
 - [VERSION CONTROL TOOLS](#version-control-tools)
 - [TECH ARTICLE WRITING](#tech-article-writing)
@@ -30,6 +29,7 @@ The repository contains learning path for some domains and interesting must to d
 
 #### JAVA SCRIPT :
 - [Learn Java Script Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- [JavaScript Repo](https://github.com/sorrycc/awesome-javascript#readme)
 
 #### BootStrap
 - [Lear  BootStrap Codeacademy ](https://www.codecademy.com/learn/learn-bootstrap)
@@ -334,16 +334,6 @@ https://www.colormatters.com/
 ---
 ## PENETRATION TESTING/BUG BOUNTY
 ---
-## PROGRAMMING LANGUAGES
-
-- [C++]
-  - []
-- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-  - []
-- [Java]
-  - []
-- [Python]
-  - []
 ## VERSION CONTROL TOOLS
 ---
 ## FRAME WORKS
