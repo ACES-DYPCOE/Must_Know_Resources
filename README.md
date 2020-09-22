@@ -16,8 +16,8 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 ---
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 ## WEB DEVELOPMENT
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
 #### HTML :
@@ -36,8 +36,9 @@ The repository contains learning path for some domains and interesting must to d
 #### Hosting 
 - [Host a static website for FREE on GitHub](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 ---
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 ## COMPETITIVE PROGRAMMING 
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
@@ -191,8 +192,9 @@ The repository contains learning path for some domains and interesting must to d
 **List of Upcomming contests** - https://clist.by/
  
 ---
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 ## MACHINE LEARNING
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+
 #### GET INTUITION OF FIELD FIRST 
 
 #### GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING , AI AND DATA SCIENCE
@@ -251,8 +253,9 @@ The repository contains learning path for some domains and interesting must to d
 - A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
 
 ---
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 ## DATA ANALYST 
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+
 #### Skills Required for Data Analysts
 1. Programming Languages (Python/R)
 2. Data Visualization
