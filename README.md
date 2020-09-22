@@ -205,6 +205,25 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## MUST KNOW HACKS
 
+### Online Courses/Tutorials:
+1. Coursera
+2. Udacity
+3. Eduonix
+4. Udemy
+5. w3schools
+6. Sololearn
+7. Youtube
+
+### Youtube Channels:
+1. Hitesh Choudhary (All kinda stuff) 
+2. Telusko (Python)
+3. Rachit Jain (Full Stack)
+4. Gaurav Sen (Algorithms)
+5. Abdul Bari (Algorithms)
+6. Geeks For Geeks (Algorithms/DSA)
+
+**Meetups** - www.meetup.com
+
 ## Code Visualisation
 - [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
