@@ -202,7 +202,15 @@ The repository contains learning path for some domains and interesting must to d
 ## FRAME WORKS
 ---
 ## TECH ARTICLE WRITING
----
+- Try to write article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
+
+### [MEDIUM](https://medium.com/)  
+1.[How to write on MEDIUM](https://help.medium.com/hc/en-us/articles/225168768-Write-a-post)
+2.[How to write TECH Article on MEDIUM](https://medium.com/@fionnachan/on-writing-a-technical-article-4ab83e774fb8)
+
+### [GeeksForGeeks](https://practice.geeksforgeeks.org/)
+1.[How to Contribute in gfg](https://www.geeksforgeeks.org/contribute/)
+
 ## MUST KNOW HACKS
 
 ### Online Courses/Tutorials:
