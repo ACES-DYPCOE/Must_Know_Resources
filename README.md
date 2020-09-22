@@ -206,28 +206,31 @@ The repository contains learning path for some domains and interesting must to d
 ## MUST KNOW HACKS
 
 ### Online Courses/Tutorials:
-1. Coursera
-2. Udacity
-3. Eduonix
-4. Udemy
-5. w3schools
-6. Sololearn
-7. Youtube
+1. [Coursera](https://www.coursera.org/)
+2. [Udacity](https://www.udacity.com/)
+3. [Eduonix](https://www.eduonix.com/)
+4. [Udemy](https://www.udemy.com/)
+5. [w3schools](https://www.w3schools.com/)
+6. [Sololearn](https://www.sololearn.com/)
+7. [Youtube](http://youtube.com/)
 
 ### Youtube Channels:
-1. Hitesh Choudhary (All kinda stuff) 
-2. Telusko (Python)
-3. Rachit Jain (Full Stack)
-4. Gaurav Sen (Algorithms)
-5. Abdul Bari (Algorithms)
-6. Geeks For Geeks (Algorithms/DSA)
+1. Hitesh Choudhary (All kinda stuff) - https://www.youtube.com/user/hiteshitube
+2. Telusko (Python and Java) - https://www.youtube.com/user/javaboynavin
+3. Rachit Jain (Full Stack) - https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
+4. Gaurav Sen (Algorithms) - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
+5. Abdul Bari (Algorithms) - https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
+6. Geeks For Geeks (Algorithms/DSA) - https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ
 
-**Meetups** - www.meetup.com
+### **Meetups** - www.meetup.com
 
 ## Code Visualisation
 - [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
 - [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
+
+### Complete GeeksforGeeks Website in a book format🔥🔥🔥🔥🌟🌟🌟
+Link - https://github.com/dufferzafar/geeksforgeeks.pdf/releases
 
 ## How to apply for financial aid on Coursera 
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
