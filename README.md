@@ -280,9 +280,19 @@ The repository contains learning path for some domains and interesting must to d
 8. Machine Learning
 ---
 
-## ANDRIOD APP DEVELOPMENT
+## ANDROID APP DEVELOPMENT
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
+#### Android with JAVA :
+ 
+ [UDEMY COURSE](https://www.udemy.com/course/complete-android-n-developer-course/)
+ 
+ [Developer Guides|Android Developers](https://developer.android.com/guide)
+ 
+ [JavaDoc](https://docs.oracle.com/javase/7/docs/api/)
+ 
+ [YoutTube Course](https://www.youtube.com/watch?v=mndwTFO9glI&list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb)
+ 
 ---
 ## UI AND UX
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
