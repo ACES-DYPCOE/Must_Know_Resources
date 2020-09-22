@@ -19,6 +19,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ## WEB DEVELOPMENT
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
 #### HTML :
