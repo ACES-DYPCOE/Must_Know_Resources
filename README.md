@@ -40,6 +40,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ## COMPETITIVE PROGRAMMING 
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
