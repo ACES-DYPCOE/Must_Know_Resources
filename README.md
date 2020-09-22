@@ -338,9 +338,10 @@ https://www.colormatters.com/
 ## PENETRATION TESTING/BUG BOUNTY
 ---
 ## VERSION CONTROL TOOLS
-
-- **[Git](https://git-scm.com/)** : 
-- 
+- **Git**
+ **Git** is the tool, **GitHub** is the service for projects that use Git.
+   -[Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+   
 ## FRAME WORKS
 ---
 ## TECH ARTICLE WRITING :fountain_pen:	
