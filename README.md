@@ -252,8 +252,8 @@ The repository contains learning path for some domains and interesting must to d
 - A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
 
 ---
-## DATA ANALYST
-
+## DATA ANALYST 
+📊 📊
 #### Skills Required for Data Analysts
 1. Programming Languages (Python/R)
 2. Data Visualization
