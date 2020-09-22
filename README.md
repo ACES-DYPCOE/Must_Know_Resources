@@ -340,7 +340,7 @@ https://www.colormatters.com/
 ## VERSION CONTROL TOOLS
 - **Git**
  **Git** is the tool, **GitHub** is the service for projects that use Git.
-   -[Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+   - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
    
 ## FRAME WORKS
 ---
