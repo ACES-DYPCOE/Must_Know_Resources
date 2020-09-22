@@ -196,9 +196,9 @@ The repository contains learning path for some domains and interesting must to d
     - **Read Out** : [Machine Learning](http://alex.smola.org/teaching/cmu2013-10-701/stats.html)
 
 **PYTHON FOR ML** :
-- 1.[Python Tutorial For Begineers](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
-- 2.[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
-- 3.[Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
+- [Python Tutorial For Begineers](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+- [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 
 **MACHINE LEARNING**:
 - [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
