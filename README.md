@@ -16,8 +16,9 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 ---
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 ## WEB DEVELOPMENT
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
 #### HTML :
@@ -36,9 +37,9 @@ The repository contains learning path for some domains and interesting must to d
 #### Hosting 
 - [Host a static website for FREE on GitHub](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 ---
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
-## COMPETITIVE PROGRAMMING 
 
+## COMPETITIVE PROGRAMMING 
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
@@ -192,8 +193,9 @@ The repository contains learning path for some domains and interesting must to d
 **List of Upcomming contests** - https://clist.by/
  
 ---
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 ## MACHINE LEARNING
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 
 #### GET INTUITION OF FIELD FIRST 
 
@@ -253,8 +255,9 @@ The repository contains learning path for some domains and interesting must to d
 - A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
 
 ---
-<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 ## DATA ANALYST 
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 
 #### Skills Required for Data Analysts
 1. Programming Languages (Python/R)
@@ -268,10 +271,11 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## ANDRIOD APP DEVELOPMENT
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 ---
 ## UI AND UX
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 #### 3D Assests for UI : 
 1. **Handz** - [Handz design](https://www.handz.design/).
 2. **Toy Faces** - amritpaldesign.com/toy-faces.
@@ -348,25 +352,25 @@ https://www.colormatters.com/
 
 ---
 ## PENETRATION TESTING AND BUG BOUNTY
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 ---
 ## VERSION CONTROL TOOLS
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 - **Git**
 - **Git** is the tool, **GitHub** is the service for projects that use Git.
    - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 ---
 
 ## FRAME WORKS
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
 - What is Frame Work and Types of Frame Work : [Blog](https://hackr.io/blog/what-is-frameworks)
 - **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
 
 ---
 ## TECH ARTICLE WRITING
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
- :fountain_pen:	:fountain_pen:
-- Try to write article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+- Try to write :fountain_pen:	article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
 
 ### [MEDIUM](https://medium.com/)  
 - **How to write on MEDIUM** : [First Article Writing](https://help.medium.com/hc/en-us/articles/225168768-Write-a-post)
@@ -377,7 +381,8 @@ https://www.colormatters.com/
 Many platforms you can discover but do share your knowledege .
 
 ## MUST KNOW HACKS
-:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
+<div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+
 ### Online Courses/Tutorials:
 1. [Coursera](https://www.coursera.org/)
 2. [Udacity](https://www.udacity.com/)
