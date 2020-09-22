@@ -176,8 +176,8 @@ The repository contains learning path for some domains and interesting must to d
  
 ---
 ## MACHINE LEARNING 
-
-### GET INTUITION OF FIELD FIRST :
+🤖 🤖 
+#### GET INTUITION OF FIELD FIRST :
 
 #### GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING , AI AND DATA SCIENCE
 - [MUST READ BLOG](https://towardsdatascience.com/data-science-vs-artificial-intelligence-vs-machine-learning-vs-deep-learning-9fadd8bda583)
@@ -217,6 +217,11 @@ The repository contains learning path for some domains and interesting must to d
 - [Medium Towards Data Science](https://towardsdatascience.com/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Machine Learning Mystery](https://machinelearningmastery.com/)
+
+#### Repo To Have glance Once :
+- [Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme)
+- [scikit-learn](https://scikit-learn.org/stable/)
 
 ## DATA ANALYST
 ---
