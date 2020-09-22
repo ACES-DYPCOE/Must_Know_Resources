@@ -15,10 +15,11 @@ The repository contains learning path for some domains and interesting must to d
 - [VERSION CONTROL TOOLS](#version-control-tools)
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
----
 
+---
 ## WEB DEVELOPMENT
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
@@ -41,6 +42,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ## COMPETITIVE PROGRAMMING 
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 ### Coding Platforms
 
@@ -198,6 +200,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ## MACHINE LEARNING
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 #### GET INTUITION OF FIELD FIRST 
 
@@ -260,6 +263,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ## DATA ANALYST 
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 #### Skills Required for Data Analysts
 1. Programming Languages (Python/R)
@@ -277,6 +281,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## UI AND UX
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 #### 3D Assests for UI : 
 1. **Handz** - [Handz design](https://www.handz.design/).
@@ -355,10 +360,13 @@ https://www.colormatters.com/
 ---
 ## PENETRATION TESTING AND BUG BOUNTY
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 ---
 ## VERSION CONTROL TOOLS
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
+
 - **Git**
 - **Git** is the tool, **GitHub** is the service for projects that use Git.
    - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
@@ -366,12 +374,16 @@ https://www.colormatters.com/
 
 ## FRAME WORKS
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
+
 - What is Frame Work and Types of Frame Work : [Blog](https://hackr.io/blog/what-is-frameworks)
 - **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
 
 ---
 ## TECH ARTICLE WRITING
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
+
 - Try to write :fountain_pen:	article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
 
 ### [MEDIUM](https://medium.com/)  
@@ -382,8 +394,10 @@ https://www.colormatters.com/
 - **How to Contribute in gfg** : [Contribute gfg](https://www.geeksforgeeks.org/contribute/)
 Many platforms you can discover but do share your knowledege .
 
+---
 ## MUST KNOW HACKS
 <div align="center">:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:</div>
+---
 
 ### Online Courses/Tutorials:
 1. [Coursera](https://www.coursera.org/)
