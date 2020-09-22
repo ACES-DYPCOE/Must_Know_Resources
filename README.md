@@ -209,7 +209,8 @@ The repository contains learning path for some domains and interesting must to d
 - **How to write TECH Article on MEDIUM** : [Technical Article What to Include](https://medium.com/@fionnachan/on-writing-a-technical-article-4ab83e774fb8)
 
 ### [GeeksForGeeks](https://practice.geeksforgeeks.org/)
-- **How to Contribute in gfg** :[Contribute gfg](https://www.geeksforgeeks.org/contribute/)
+- **How to Contribute in gfg** : [Contribute gfg](https://www.geeksforgeeks.org/contribute/)
+Many platforms you can discover but do share your knowledege .
 
 ## MUST KNOW HACKS
 
