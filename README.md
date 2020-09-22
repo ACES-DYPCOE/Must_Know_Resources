@@ -196,12 +196,27 @@ The repository contains learning path for some domains and interesting must to d
     - **Read Out** : [Machine Learning](http://alex.smola.org/teaching/cmu2013-10-701/stats.html)
 
 **PYTHON FOR ML** :
-
 - 1.[Python Tutorial For Begineers](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 - 2.[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 - 3.[Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 
+**MACHINE LEARNING**:
+- [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 
+**DEEP LEARNING**:
+- [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+#### Competitive Platforms to Showcase Skills("The best way of learning anything is by doing")
+- [Kaggle ](https://www.kaggle.com/)
+- [ International Data Analysis Olympiad (IDAHO)](https://idao.world/)
+- [DrivenData](https://www.drivendata.org/competitions/)
+- [Top-Ongoing Contest Are Listed here](https://mlcontests.com/)
+- [To know more about such Competitions refer this ](https://towardsdatascience.com/top-competitive-data-science-platforms-other-than-kaggle-2995e9dad93c)
+
+#### Doubt Clearing Sites :
+- [Medium Towards Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
+- [Machine Learning Mystery](https://machinelearningmastery.com/)
 
 ## DATA ANALYST
 ---
