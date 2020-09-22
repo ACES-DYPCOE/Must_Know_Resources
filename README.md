@@ -177,7 +177,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## MACHINE LEARNING 
 🤖 🤖 
-#### GET INTUITION OF FIELD FIRST :
+#### GET INTUITION OF FIELD FIRST 
 
 #### GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING , AI AND DATA SCIENCE
 - [MUST READ BLOG](https://towardsdatascience.com/data-science-vs-artificial-intelligence-vs-machine-learning-vs-deep-learning-9fadd8bda583)
@@ -239,6 +239,81 @@ The repository contains learning path for some domains and interesting must to d
 ## FULL STACK DEVELOPMENT
 ---
 ## UI/UX
+📱📱
+#### 3D Assests for UI : 
+1. **Handz** - [Handz design](https://www.handz.design/).
+2. **Toy Faces** - amritpaldesign.com/toy-faces.
+3. **Ui8** - https://ui8.net/emelyanovk/products/m
+4. **MacOS Big Sur Icons** - https://www.behance.net/gallery/10054
+5. **Superscene Pro** - https://superscene.pro/
+6. **3ddd** - https://3ddd.casa/
+
+#### Prototye Tools :
+1. **Draftium** - https://app.draftium.com
+2. **Spirit App** - https://spiritapp.io
+3. **Google Web Designer**- https://webdesigner.withgoogle.com
+4. **Prototyp**- https://prototyp.in
+5. **Motion UI**- https://zurb.com/playground/motion-ui
+6. **Paste App**- https://pasteapp.com
+7. **Stylie**- https://jeremyckahn.github.io/stylie/
+
+#### UI kits
+1. https://www.uplabs.com/posts/listenin
+2. https://www.behance.net/gallery/87629
+3. https://www.bypeople.com/css-bootstra
+4. https://www.figma.com/file/J1uPSOY5k5
+5. https://janlosert.com/store/webflow-c
+
+#### Mockup UI Tools
+1. **Mockup frames:** https://www.mokupframes.com
+2. **Screenspace Studio:** https://www.screenspace.io/studio
+3. **Threed:** https://threed.io
+4. **Hamok:** https://hamok.io/
+
+##### UI design illustrations:
+1. Shape.so
+2. Magic Pattern
+3. Indian Doodle by Iconscout
+4. LS Graphics
+5. Shapefest
+6. Stubborn.fun
+
+##### 3D Mockup Tools :
+1. Naker.io
+2. Box Shot
+3. Drama.app
+4. Vectary
+
+##### Trendy Icons Set
+1. **Neumorphism Icon Set**: https://www.figma.com/file/MJjDaKFISl
+2. **Isometric Love** : https://www.isometriclove.com
+3. **Orion Icons** : https://orioniconlibrary.com
+4. **Round Icons** : https://roundicons.com/vector-free-icons/
+5. **Strealine Icons** : https://streamlineicons.com
+6. **Pure Sugar** : https://uibundle.com/products/pure-su...
+7. **Unicons** : https://iconscout.com/unicons
+8. **Symbol Icons** : https://symbolicons.com/free
+
+##### Best Illustrations
+1. **Control.rocks** - https://control.rocks
+2. **3D Mockup**: https://www.behance.net/gallery/91364...
+3. **3D Letters**: https://www.behance.net/gallery/67550...
+4. **Absurd Designs**: https://absurd.design/
+5. **Paaaterns!**: https://products.ls.graphics/paaatterns/
+6. **Open Peeps**: https://www.openpeeps.com/
+7. **Paper Illustrations**: https://iconscout.com/paper-illustrat...
+8. **Illlustrations**: https://illlustrations.co/
+9. **GetIllustrations**: http://www.getillustrations.com/
+
+##### Colour Tools(colour Pallete)
+https://colorleap.app/home
+https://colors.eva.design/
+https://calcolor.co/
+https://www.happyhues.co/
+
+#### Colour Theory
+https://www.colormatters.com/
+
 ---
 ## PENETRATION TESTING/BUG BOUNTY
 ---
