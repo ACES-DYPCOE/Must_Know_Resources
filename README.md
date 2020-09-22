@@ -16,7 +16,7 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 ---
-## :shamrock:	 WEB DEVELOPMENT
+:shamrock:  ## WEB DEVELOPMENT
 
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
