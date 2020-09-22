@@ -19,6 +19,18 @@ The repository contains learning path for some domains and interesting must to d
 - [MUST KNOW HACKS](#must-know-hacks)
 ---
 ## WEB DEVELOPMENT
+
+#### HTML :
+- [Learn HTML Codeacademy](https://www.codecademy.com/learn/learn-html)
+
+#### CSS :
+- [Learn CSS Codeacademy](https://www.codecademy.com/learn/learn-css)
+
+#### JAVA SCRIPT :
+- [Learn Java Script Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript)
+
+#### BootStrap
+- [Lear  BootStrap Codeacademy ](https://www.codecademy.com/learn/learn-bootstrap)
 ---
 ## COMPETITIVE PROGRAMMING 
    :man_technologist: :woman_technologist: 
