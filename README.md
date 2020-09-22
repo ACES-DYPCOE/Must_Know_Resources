@@ -341,8 +341,12 @@ https://www.colormatters.com/
 - **Git**
  **Git** is the tool, **GitHub** is the service for projects that use Git.
    - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
-   
-## FRAME WORKS
+---
+
+## FRAME WORK
+- What is Frame Work and Types of Frame Work : [Blog](https://hackr.io/blog/what-is-frameworks)
+- **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
+
 ---
 ## TECH ARTICLE WRITING :fountain_pen:	
 - Try to write article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
