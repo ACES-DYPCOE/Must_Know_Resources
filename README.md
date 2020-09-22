@@ -10,7 +10,7 @@ The repository contains learning path for some domains and interesting must to d
 - [DATA ANALYST](#data-anlyst)
 - [ANDRIOD APP DVELOPMENT](#andriod-app-development)
 - [FULL STACK DEVELOPMENT](#full-stack-development)
-- [UI/UX](#ui/ux)
+- [UI AND UX](#ui-and-ux)
 - [PENETRATION TESTING/BUG BOUNTY](#programming-testing/bug-bounty)
 - [FRAME WORKS](#frame-works)
 - [VERSION CONTROL TOOLS](#version-control-tools)
@@ -258,7 +258,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 ## FULL STACK DEVELOPMENT
 ---
-## UI/UX
+## UI AND UX
 📱📱
 #### 3D Assests for UI : 
 1. **Handz** - [Handz design](https://www.handz.design/).
