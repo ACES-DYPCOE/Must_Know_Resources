@@ -359,7 +359,8 @@ https://www.colormatters.com/
 - **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
 
 ---
-## TECH ARTICLE WRITING :fountain_pen:	
+## TECH ARTICLE WRITING
+ :fountain_pen:	:fountain_pen:
 - Try to write article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
 
 ### [MEDIUM](https://medium.com/)  
