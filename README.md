@@ -253,7 +253,18 @@ The repository contains learning path for some domains and interesting must to d
 
 ---
 ## DATA ANALYST
+
+#### Skills Required for Data Analysts
+1. Programming Languages (Python/R)
+2. Data Visualization
+3. Data Warehousing
+4. SQL Databases
+5. Database Querying Languages
+6. Data Mining, Cleaning and Munging
+7. Advanced Microsoft Excel
+8. Machine Learning
 ---
+
 ## ANDRIOD APP DVELOPMENT
 ---
 ## FULL STACK DEVELOPMENT
