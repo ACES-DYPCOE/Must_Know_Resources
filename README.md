@@ -179,27 +179,27 @@ The repository contains learning path for some domains and interesting must to d
    🤖
 ### GET INTUITION OF FIELD FIRST :
 
-**GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING ,AI AND DATA SCIENCE**
--- [MUST READ BLOG](https://towardsdatascience.com/data-science-vs-artificial-intelligence-vs-machine-learning-vs-deep-learning-9fadd8bda583)
--- [THIS VIDEO WILL HELP](https://www.youtube.com/watch?v=k2P_pHQDlp0&t=519s)
+#### GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING ,AI AND DATA SCIENCE
+- [MUST READ BLOG](https://towardsdatascience.com/data-science-vs-artificial-intelligence-vs-machine-learning-vs-deep-learning-9fadd8bda583)
+- [THIS VIDEO WILL HELP](https://www.youtube.com/watch?v=k2P_pHQDlp0&t=519s)
 
-**MATHEMATICS REQUIRED** :
--- **Linear Algebra** : 
+#### MATHEMATICS REQUIRED** :
+- **Linear Algebra** : 
     - **Playlist** : [Khan-Academy](https://www.khanacademy.org/math/linear-algebra)
     - **Gilbert Strang** : [Playlist](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
--- **Calculas** : 
+- **Calculas** : 
     - **Playlist** : [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     - **Notes** : [The Learning Machine](https://the-learning-machine.com/article/machine-learning/calculus)
--- **Probability ** :
+- **Probability ** :
     - **Playlist** : [Khan-Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
--- **Statistics ** :
+- **Statistics ** :
     - **Read Out** : [Machine Learning](http://alex.smola.org/teaching/cmu2013-10-701/stats.html)
 
 **PYTHON FOR ML** :
 
---  1.[Python Tutorial For Begineers](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
---  2.[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
---  3.[Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
+- 1.[Python Tutorial For Begineers](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- 2.[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+- 3.[Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 
 
 
