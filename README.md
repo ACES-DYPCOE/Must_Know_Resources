@@ -223,6 +223,15 @@ The repository contains learning path for some domains and interesting must to d
 - [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
+#### USEFUL LINKS :
+- [Matplotlib Crash Course Python Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+- [CS229: Machine Learning](http://cs229.stanford.edu/)
+- [Pioneers in the Field - People you need to follow](https://stats385.github.io/personalities)
+
+#### AWESOME RESERACH PAPER:
+- [Trending Research](https://paperswithcode.com/)
+
+
 ## DATA ANALYST
 ---
 ## ANDRIOD APP DVELOPMENT
