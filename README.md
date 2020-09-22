@@ -17,7 +17,7 @@ The repository contains learning path for some domains and interesting must to d
 - [MUST KNOW HACKS](#must-know-hacks)
 ---
 ## WEB DEVELOPMENT
-                                                                     :shamrock::shamrock::shamrock:
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
 #### HTML :
@@ -37,7 +37,7 @@ The repository contains learning path for some domains and interesting must to d
 - [Host a static website for FREE on GitHub](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 ---
 ## COMPETITIVE PROGRAMMING 
-   
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
@@ -191,8 +191,8 @@ The repository contains learning path for some domains and interesting must to d
 **List of Upcomming contests** - https://clist.by/
  
 ---
-## MACHINE LEARNING 
-🤖 🤖 
+## MACHINE LEARNING
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 #### GET INTUITION OF FIELD FIRST 
 
 #### GET SORTED OUT BETWEEN DEEP LEARNING ,MACHINE LEARNING , AI AND DATA SCIENCE
@@ -252,7 +252,7 @@ The repository contains learning path for some domains and interesting must to d
 
 ---
 ## DATA ANALYST 
-📊 📊
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 #### Skills Required for Data Analysts
 1. Programming Languages (Python/R)
 2. Data Visualization
@@ -265,10 +265,10 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## ANDRIOD APP DEVELOPMENT
-
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 ---
 ## UI AND UX
-📱📱
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 #### 3D Assests for UI : 
 1. **Handz** - [Handz design](https://www.handz.design/).
 2. **Toy Faces** - amritpaldesign.com/toy-faces.
@@ -345,19 +345,23 @@ https://www.colormatters.com/
 
 ---
 ## PENETRATION TESTING AND BUG BOUNTY
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 ---
 ## VERSION CONTROL TOOLS
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 - **Git**
 - **Git** is the tool, **GitHub** is the service for projects that use Git.
    - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 ---
 
 ## FRAME WORKS
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 - What is Frame Work and Types of Frame Work : [Blog](https://hackr.io/blog/what-is-frameworks)
 - **Frameworks for Web Applications** : [Web Frameworks](https://www.geeksforgeeks.org/top-10-frameworks-for-web-applications/)
 
 ---
 ## TECH ARTICLE WRITING
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
  :fountain_pen:	:fountain_pen:
 - Try to write article on every new thing you learn there are various platforms where you can share your knowledege through tech articles .Also can read some     other similar minded peoples blog .
 
@@ -370,7 +374,7 @@ https://www.colormatters.com/
 Many platforms you can discover but do share your knowledege .
 
 ## MUST KNOW HACKS
-
+:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:
 ### Online Courses/Tutorials:
 1. [Coursera](https://www.coursera.org/)
 2. [Udacity](https://www.udacity.com/)
