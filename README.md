@@ -16,8 +16,8 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 ---
-:shamrock:  ## WEB DEVELOPMENT
-
+## WEB DEVELOPMENT
+                                                                     :shamrock::shamrock::shamrock:
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
 #### HTML :
@@ -36,8 +36,8 @@ The repository contains learning path for some domains and interesting must to d
 #### Hosting 
 - [Host a static website for FREE on GitHub](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 ---
-## :shamrock:	 COMPETITIVE PROGRAMMING 
-   :man_technologist: :woman_technologist: 
+## COMPETITIVE PROGRAMMING 
+   
 ### Coding Platforms
 
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
