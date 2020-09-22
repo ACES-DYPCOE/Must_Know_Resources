@@ -9,7 +9,6 @@ The repository contains learning path for some domains and interesting must to d
 - [MACHINE LEARNING](#machine-learning)
 - [DATA ANALYST](#data-analyst)
 - [ANDROID APP DEVELOPMENT](#android-app-development)
-- [FULL STACK DEVELOPMENT](#full-stack-development)
 - [UI AND UX](#ui-and-ux)
 - [PENETRATION TESTING AND BUG BOUNTY](#penetration-testing-and-bug-bounty)
 - [FRAME WORKS](#frame-works)
@@ -266,8 +265,7 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ## ANDRIOD APP DEVELOPMENT
----
-## FULL STACK DEVELOPMENT
+
 ---
 ## UI AND UX
 📱📱
