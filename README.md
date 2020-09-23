@@ -81,6 +81,9 @@ The repository contains learning path for some domains and interesting must to d
 - [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE) 
 ---
 
+### Asymptotic Analysis (Big-O Notation)
+- [Time Complexitiy Analysis](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+---
 ### Searching  
 - Linear Search 
 - Binary Search 
