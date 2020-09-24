@@ -16,6 +16,7 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 
+🌟🌟🌟🌟** Feel Free to Star and Fork Repo** 🌟🌟🌟🌟
 ---
 ## WEB DEVELOPMENT 
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
