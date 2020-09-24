@@ -511,3 +511,8 @@ Link - https://github.com/dufferzafar/geeksforgeeks.pdf/releases
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
   - [Official blog from coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
     <br>Advice : Don't Forget to implemet something from what you have learned !:100:
+    
+    
+**A sepcial thanks to all Contributors** [@maneprajakta](https://github.com/maneprajakta),[@kothariji](https://github.com/kothariji),
+[@anupam-kumar-krishnan](https://github.com/anupam-kumar-krishnan),[@karan0805](https://github.com/karan0805) ,[@arjunsingh64](https://github.com/arjunsingh64),
+[@WaderManasi](https://github.com/WaderManasi),[@anushka-deshpande](https://github.com/anushka-deshpande) :purple_heart:
