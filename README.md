@@ -385,6 +385,28 @@ https://www.colormatters.com/
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
 ---
+### Resources you can have a perfect start with
+- [The Web Application Hacker's Handbook](https://www.amazon.com/gp/product/1118026470/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118026470&linkCode=as2&tag=bugcrowd-20&linkId=9f9c5e3f51e50ea7092a21a04aec184f/)
+
+- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+
+- [Jhaddix Bug Hunting Methodology](https://github.com/jhaddix/tbhm)
+
+### Read as much as you can to know what's going new in this field
+- Follow some [infosec](https://medium.com/bugbountywriteup) and other cybersecurity related stuff on [medium](https://medium.com/).
+- For Bug Bounty hunters read reports on [hactivity](https://hackerone.com/hacktivity) and [pentester.lands](https://pentester.land/list-of-bug-bounty-writeups.html)
+
+### Watch tutorials (Bug Hunting) on YouTube!
+- [JackkTutorials on YouTube](https://www.youtube.com/user/JackkTutorials/videos)
+- [DEFCON Conference videos on YouTube](https://www.youtube.com/user/DEFCONConference/videos)
+- [Hak5 on YouTube](https://www.youtube.com/user/Hak5Darren/playlists)
+- [Penetration Testing in linux](https://www.youtube.com/c/PenetrationTestingwithddos/videos)
+- [Null-Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+
+### For Cybersecurity Ebooks
+- [Check here](https://drive.google.com/drive/folders/1J2e2C-5TxJzmv8tS57t-oibfle2VWY0V?usp=sharing)
 
 ---
 ## VERSION CONTROL TOOLS
