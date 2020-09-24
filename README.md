@@ -1,5 +1,6 @@
 # Must_Know_Resources :woman_technologist: :man_technologist:
 The repository contains learning path for some domains and interesting must to do things in tech field as a College Student.:woman_student: :man_student: 
+🌟🌟🌟🌟 Feel Free to Star and Fork Repo 🌟🌟🌟🌟
 
 # Let's Begin then :golfing_woman:
 
@@ -16,7 +17,7 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 
-🌟🌟🌟🌟** Feel Free to Star and Fork Repo** 🌟🌟🌟🌟
+
 ---
 ## WEB DEVELOPMENT 
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
