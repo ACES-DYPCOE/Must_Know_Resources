@@ -286,10 +286,17 @@ The repository contains learning path for some domains and interesting must to d
 ## ANDROID APP DEVELOPMENT
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
-#### Android with JAVA :
- 
  ---
- 
+#### Basics Of Andriod App Development :
+
+1. Coursera : [Specialization](https://www.coursera.org/specializations/android-app-development)
+2. Youtube: [Playlist](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe)
+
+#### Layouts in android studio:  
+
+- [Playlist](https://www.youtube.com/watch?v=OCceWupZ_Ik)
+
+#### Android with JAVA :
  - [UDEMY COURSE](https://www.udemy.com/course/complete-android-n-developer-course/)
  
  - [Developer Guides|Android Developers](https://developer.android.com/guide)
