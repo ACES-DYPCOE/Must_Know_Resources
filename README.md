@@ -538,4 +538,4 @@ Link - https://github.com/dufferzafar/geeksforgeeks.pdf/releases
     
 **A sepcial thanks to all Contributors** [@maneprajakta](https://github.com/maneprajakta),[@kothariji](https://github.com/kothariji),
 [@anupam-kumar-krishnan](https://github.com/anupam-kumar-krishnan),[@karan0805](https://github.com/karan0805) ,[@arjunsingh64](https://github.com/arjunsingh64),
-[@WaderManasi](https://github.com/WaderManasi),[@anushka-deshpande](https://github.com/anushka-deshpande) :purple_heart:
+[@WaderManasi](https://github.com/WaderManasi),[@anushka-deshpande](https://github.com/anushka-deshpande),[@kkhitesh](https://github.com/kkhitesh) :purple_heart:
