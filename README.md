@@ -12,7 +12,7 @@ The repository contains learning path for some domains and interesting must to d
 - [ANDROID APP DEVELOPMENT](#android-app-development)
 - [UI AND UX](#ui-and-ux)
 - [PENETRATION TESTING AND BUG BOUNTY](#penetration-testing-and-bug-bounty)
-- [FRAME WORKS](#frame-works)
+- [FRAME WORKS](#web-frameworks)
 - [VERSION CONTROL TOOLS](#version-control-tools)
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
@@ -289,6 +289,20 @@ The repository contains learning path for some domains and interesting must to d
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
 
  ---
+ 
+#### Complete Roadmap:
+  This Roadmap follows the path of **JAVA**. Feel free to implement in the language of your choice.
+  
+ 1. User Interface - https://www.udacity.com/course/android-basics-user-interface--ud834
+ 2. User Input - https://www.udacity.com/course/android-basics-user-input--ud836
+ 3. Multiscreen Apps - https://www.udacity.com/course/android-basics-multiscreen-apps--ud839
+ 4. Networking course - https://www.udacity.com/course/android-basics-networking--ud843
+ 5. Data Storage course - https://www.udacity.com/course/android-basics-data-storage--ud845
+ 6. Developing Android Apps course - https://www.udacity.com/course/new-android-fundamentals--ud851
+ 7. Advanced Android App Development - https://www.udacity.com/course/advanced-android-app-development--ud855
+ 8. Firebase in a weekend - https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352
+ 9. Material Design Course - https://www.udacity.com/course/material-design-for-android-developers--ud862
+ 
 #### Basics Of Andriod App Development :
 
 1. Coursera : [Specialization](https://www.coursera.org/specializations/android-app-development)
@@ -480,6 +494,9 @@ Many platforms you can discover but do share your knowledege .
 
 ---
 
+### Complete DSA  in JAVA:
+- [PepCoding](https://www.pepcoding.com/resources/)
+
 ### Online Courses/Tutorials:
 1. [Coursera](https://www.coursera.org/)
 2. [Udacity](https://www.udacity.com/)
@@ -496,6 +513,12 @@ Many platforms you can discover but do share your knowledege .
 4. Gaurav Sen (Algorithms) - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 5. Abdul Bari (Algorithms) - https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 6. Geeks For Geeks (Algorithms/DSA) - https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ
+7. Freecodecamp (All kinda stuff) - https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+8. Web Dev Simplified (Web Dev) - https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+9. Traversy Media (Full Stack) - https://www.youtube.com/user/TechGuyWeb
+10. Net Ninja (Javascript and Libraries) - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+11. Dennis Ivy (Django) - https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg
+12. Mtechviral (Flutter) - https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA
 
 ### **Meetups** - www.meetup.com
 
