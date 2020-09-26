@@ -187,6 +187,9 @@ The repository contains learning path for some domains and interesting must to d
 - Max Size Square Submatrix With One 
 - Maximum Length Chain
 
+#### CP ALGORITHMS :
+- [CP-Algorithms](https://cp-algorithms.com/)
+
 #### List of Programming Contests
 1. [ACM ICPC (Olympics of Programming)](https://icpc.global/)
 2. [Google KickStart](https://codingcompetitions.withgoogle.com/kickstart)
