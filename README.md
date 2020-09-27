@@ -536,7 +536,7 @@ Link - https://github.com/dufferzafar/geeksforgeeks.pdf/releases
 ## How to apply for financial aid on Coursera 
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
   - [Official blog from coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
-    <br>Advice : Don't Forget to implemet something from what you have learned !:100:
+    <br>Advice : Don't Forget to implement something from what you have learned !:100:
     
     
 **A sepcial thanks to all Contributors** [@maneprajakta](https://github.com/maneprajakta),[@kothariji](https://github.com/kothariji),
