@@ -57,6 +57,7 @@ The repository contains learning path for some domains and interesting must to d
 - **Short Contest** - [CodeForces](https://codeforces.com/)
 - **Mathematics** - [Project Euler](https://projecteuler.net/)
 - **Data Structures and Algorithms** - [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
+- **Practice** - [Dynamic A2OJ](https://a2oj.herokuapp.com/)
 
 
 ### Important Data Structures: 
