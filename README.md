@@ -85,7 +85,9 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 ### Asymptotic Analysis (Big-O Notation)
-- [Time Complexitiy Analysis](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+- Time Complexitiy Analysis
+- [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+- [codealittle](https://www.youtube.com/watch?v=M_eRoHLMEJ8&t=1054s)
 ---
 ### Searching  
 - Linear Search 
