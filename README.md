@@ -41,6 +41,7 @@ The repository contains learning path for some domains and interesting must to d
 
 #### Hosting 
 - [Host a static website for FREE on GitHub](https://www.youtube.com/watch?v=M5mg0r4ajt4)
+- [Host a website or web application on Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9he0kHAyiyr3dDO2xw0NWoP)
 ---
 
 ## COMPETITIVE PROGRAMMING 
