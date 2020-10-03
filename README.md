@@ -17,7 +17,6 @@ The repository contains learning path for some domains and interesting must to d
 - [TECH ARTICLE WRITING](#tech-article-writing)
 - [MUST KNOW HACKS](#must-know-hacks)
 
-
 ---
 ## WEB DEVELOPMENT 
 <div align="center">✨:shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock::shamrock:✨</div>
@@ -25,6 +24,10 @@ The repository contains learning path for some domains and interesting must to d
 ---
 
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
+
+#### GIT AND GITHUB :
+- [Learn Git and Github- Beginner's Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [GitHub Student Developer Pack](https://www.youtube.com/watch?v=lM64sralXqA)
 
 #### HTML :
 - [Learn HTML Codeacademy](https://www.codecademy.com/learn/learn-html)
