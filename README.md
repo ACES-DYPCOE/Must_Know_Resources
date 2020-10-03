@@ -25,7 +25,7 @@ The repository contains learning path for some domains and interesting must to d
 
 - [FREE CODE CAMP](https://www.freecodecamp.org/learn)
 
-#### GIT AND GITHUB :
+#### GIT and GITHUB :
 - [Learn Git and Github- Beginner's Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [GitHub Student Developer Pack](https://www.youtube.com/watch?v=lM64sralXqA)
 
