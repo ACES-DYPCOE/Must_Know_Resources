@@ -531,6 +531,7 @@ Many platforms you can discover but do share your knowledege .
 11. Dennis Ivy (Django) - https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg
 12. Mtechviral (Flutter) - https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA
 13. CodeForCause - https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg
+14. Codevolution (JS libraries)- https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
 
 ### **Meetups** - www.meetup.com
 
