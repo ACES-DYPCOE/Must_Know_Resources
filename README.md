@@ -538,8 +538,8 @@ Many platforms you can discover but do share your knowledege .
 - [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
 
 ### Complete GeeksforGeeks Website in a book format🔥🔥🔥🔥🌟🌟🌟
-Link - https://github.com/dufferzafar/geeksforgeeks.pdf/releases
-Geeks Digest (Montly) - https://www.geeksforgeeks.org/geeks-digest/
+- Link - https://github.com/dufferzafar/geeksforgeeks.pdf/releases
+- Geeks Digest (Montly) - https://www.geeksforgeeks.org/geeks-digest/
 ## How to apply for financial aid on Coursera 
   - [Youtube Link](https://www.youtube.com/watch?v=LywLyuO6OPY)
   - [Official blog from coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
